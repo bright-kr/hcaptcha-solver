@@ -2,7 +2,7 @@
 
 [![Promo](https://github.com/bright-kr/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/products/web-unlocker/captcha-solver/hcaptcha)
 
-Bright Data의 고급 CAPTCHA 해결 기술로 hCaptcha CAPTCHA를 손쉽게 우회합니다. 머신러닝 알고리즘, [자동 IP 로ーテーティングプロキシ](https://brightdata.co.kr/solutions/rotating-proxies), 그리고 견고한 プロキ시 인프라를 활용하여 대상 사이트에 대한 원활하고 일관된 접근을 보장합니다.  
+Bright Data의 고급 CAPTCHA 해결 기술로 hCaptcha CAPTCHA를 손쉽게 우회합니다. 머신러닝 알고리즘, [자동 IP 로ーテーティング프록시](https://brightdata.co.kr/solutions/rotating-proxies), 그리고 견고한 プロキ시 인프라를 활용하여 대상 사이트에 대한 원활하고 일관된 접근을 보장합니다.  
 
 Bright Data의 CAPTCHA Solver는 [**Scraping Browser**](https://brightdata.co.kr/products/scraping-browser) 및 [**Web Unlocker API**](https://brightdata.co.kr/products/web-unlocker)에 내장된 기능으로, 가장 복잡한 CAPTCHA 챌린지까지 처리하는 완전한 솔루션을 제공합니다.  
 
@@ -30,7 +30,7 @@ Bright Data의 CAPTCHA Solver는 탁월한 신뢰성과 성능으로 전 세계 
 ### **Built for Developers**  
 - Puppeteer, Playwright, Selenium과의 쉬운 연동을 지원합니다.  
 - CAPTCHA 해결 동작에 대한 완전 맞춤형 설정을 제공합니다.  
-- 중단 없는 スクレイピング을 위해 자동 리ト라이 및 동적 IP 조정을 제공합니다.
+- 중단 없는 스크레이핑을 위해 자동 리ト라이 및 동적 IP 조정을 제공합니다.
 
 > **Pro Tip 💡**
 >> 이미 CAPTCHA 해결 구성을 사용하고 계십니까? [Puppeteer](https://brightdata.co.kr/integration/puppeteer), [Playwright](https://brightdata.co.kr/integration/playwright), [Selenium](https://brightdata.co.kr/integration/selenium)을 위한 당사의 プロキ시로 이를 강화하여 CAPTCHA 챌린지를 최소화합니다.
@@ -140,9 +140,9 @@ try {
 
 | **Plan**         | **Price (1K Results)** | **Monthly Cost** | **Description**                                  |  
 |-------------------|------------------------|------------------|------------------------------------------------|  
-| **Pay-as-you-go** | $1.50                 | No commitment    | 단발성 スクレイピング 요구에 적합합니다.               |  
+| **Pay-as-you-go** | $1.50                 | No commitment    | 단발성 스크레이핑 요구에 적합합니다.               |  
 | **Growth**        | $1.27                 | $499             | 확장 중인 팀에 맞춰 설계되었습니다.                    |  
-| **Business**      | $1.12                 | $999             | 대규모 スクレイピング 운영에 적합합니다.  |  
+| **Business**      | $1.12                 | $999             | 대규모 스크레이핑 운영에 적합합니다.  |  
 | **Premium**       | $1.05                 | $1,999           | 우선 지원이 포함된 고급 기능을 제공합니다.       |  
 | **Enterprise**    | Custom Quote          | Contact Us       | 최상위 비즈니스 요구를 위한 맞춤 패키지입니다.   |  
 
@@ -150,7 +150,7 @@ try {
 
 ## **Why Developers Love hCaptcha CAPTCHA Solver**  
 - **Easy Integration**: Puppeteer, Playwright, Selenium과 원활하게 연동됩니다.  
-- **Advanced AI-Based Logic**: 리ト라이, CAPTCHA 해결, 브라우ザフィンガープリント, IP 로ーテーティングプロキシ, 고급 헤ッダー를 자동으로 처리합니다.  
+- **Advanced AI-Based Logic**: 리ト라이, CAPTCHA 해결, 브라우ザフィンガープリント, IP 로ーテーティング프록시, 고급 헤ッダー를 자동으로 처리합니다.  
 - **Built-in Browser**: JavaScript 렌더링을 위해 외부 브라우저를 관리할 필요가 없습니다.  
 - **Real-Time Insights**: 라이브 대시보드를 통해 네트워크 성능을 모니터링합니다.  
 - **Unmatched Support**: 매일 새로운 기능이 추가되며, 24/7 글로벌 고객 지원을 제공합니다.  
